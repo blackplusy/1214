@@ -1,0 +1,49 @@
+1.前端岗位
+	a.官网开发
+	b.前台、后台开发
+	c.app开发(安卓、IOS)
+	d.小程序开发
+	e.桌面引用
+	f.web VR
+2.技术栈
+	a.html
+	b.css
+	c.js(javascript)
+	d.ajax
+	e.jquery
+	f.vue
+	g.react
+	h.小程序
+3.薪资范围
+	12k-18k
+4.url(统一资源定位器)
+	http://s.taobao.com:80/goods/search?spm=a21bo
+	a.协议
+		http协议(超文本传输协议)
+		超文本:声音、图像、视频
+		http协议规定了数据先传输什么，后传输什么，怎样传输
+		http协议特点:无状态(彼此不记录过去的行为)
+		http协议的请求:
+			get    我要什么，主要用于浏览，请求信息显示在URL上，相对不安全
+				https://s.taobao.com/search?q=lv&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.2017.201856-taobao-item.1&ie=utf8&initiative_id=tbindexz_20170306
+				https://s.taobao.com/search?q=zara&imgfile=&js=1&stats_click=search_radio_all%3A1&initiative_id=staobaoz_20201214&ie=utf8
+			post   我给什么，主要用于提交，请求信息显示在请求体中，相对安全
+		cookie&session
+			cookie    访问记录，验证机制    定投广告
+			session   验证机制             30分钟超时(会话保持)
+		状态码
+			200    2开头请求成功
+			302    3开头移动或者缓存
+			404    4开头客户端请求有问题
+			500    5开头服务端有问题
+	b.域名(IP)
+		FQDN(完全合格域名)
+	c.端口
+		区分应用的标识
+	d.虚拟目录
+	e.操作的文件
+	f.访问文件使用的参数
+5.前端代码基础
+	a.新建网页
+	b.运行写的代码(右键--open in browser)
+	c.常见标签
